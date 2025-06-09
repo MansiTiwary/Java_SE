@@ -1,4 +1,4 @@
-# Java_CORE
+# JAVA_CORE
 <p>AUTHOR : MANSI TIWARY</p>
 <br>
 <p>THIS IS ON JAVA CORE</p>
